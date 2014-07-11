@@ -5,7 +5,8 @@ set -e
 yum install -y wget
 
 # chef
-curl -kL https://www.opscode.com/chef/install.sh | bash
+
+#curl -kL https://www.opscode.com/chef/install.sh | bash
 
 
 # puppet
